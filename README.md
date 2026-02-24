@@ -24,13 +24,13 @@ yarn add date2oid
 
 ## CLI Usage
 
-You can use this directly from your terminal using `npx`, by providing the date as an argument. Note that the command name is `date-to-oid`.
+You can use this directly from your terminal using `npx`, by providing the date as an argument. Note that the command name is `date2oid`.
 
 ```bash
-$ npx date-to-oid "2024-01-01T00:00:00Z"
+$ npx date2oid "2024-01-01T00:00:00Z"
 65920a800000000000000000
 
-$ npx date-to-oid "October 13, 2026 11:13:00"
+$ npx date2oid "October 13, 2026 11:13:00"
 691d0e5c0000000000000000
 ```
 
