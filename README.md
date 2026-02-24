@@ -1,7 +1,7 @@
 # date2oid
 
 [![npm version](https://img.shields.io/npm/v/date2oid.svg)](https://www.npmjs.com/package/date2oid)
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 Utility to convert a JavaScript Date or date string to a valid MongoDB `ObjectId` string, allowing you to use timestamps in the typical ObjectId structure.
 
