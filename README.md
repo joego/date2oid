@@ -66,4 +66,4 @@ A typical MongoDB `ObjectId` consists of 12 bytes (24 hexadecimal characters). T
 
 ## License
 
-[ISC](LICENSE)
+[MIT](LICENSE)
